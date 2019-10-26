@@ -1,7 +1,9 @@
-package com.example.emergencyactivatorapplication;
+package com.example.emergencyactivatorapplication.Activities;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import com.example.emergencyactivatorapplication.R;
 
 public class SecurityWords extends AppCompatActivity {
 
