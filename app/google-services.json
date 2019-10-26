@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562485998834",
+    "firebase_url": "https://galvanic-fort-257104.firebaseio.com",
+    "project_id": "galvanic-fort-257104",
+    "storage_bucket": "galvanic-fort-257104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562485998834:android:264b93feb86800d8a7cc6b",
+        "android_client_info": {
+          "package_name": "com.example.emergencyactivatorapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562485998834-nr511e5gkh4741cl2d9lnl42mco964s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emergencyactivatorapplication",
+            "certificate_hash": "23cffa8a6c8a06374f4d8e3ae0b947ea62607a07"
+          }
+        },
+        {
+          "client_id": "562485998834-dngkovm7bqij67fu0trrpe6ucqfkdh94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOmIIAUzyNLCoATrHTfz4s8CvF4L2oa9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562485998834-dngkovm7bqij67fu0trrpe6ucqfkdh94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
