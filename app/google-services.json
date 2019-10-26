@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "562485998834-n0mnnpm3ss3chukgrhmegp17umkcggne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emergencyactivatorapplication",
+            "certificate_hash": "2f16c2aa7ccced8f586743044b773810d271f9a4"
+          }
+        },
+        {
           "client_id": "562485998834-nr511e5gkh4741cl2d9lnl42mco964s8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
