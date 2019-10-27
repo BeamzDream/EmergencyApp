@@ -23,5 +23,6 @@ public class EmergencyContact extends AppCompatActivity {
                 startActivity(i);
             }
         });
+
     }
 }
